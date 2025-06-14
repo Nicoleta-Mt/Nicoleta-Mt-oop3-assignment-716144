@@ -1,0 +1,10 @@
+com\watchlist\controller\MovieController.class
+com\watchlist\exceptions\ExternalApiException.class
+com\watchlist\exceptions\MovieImportException.class
+com\watchlist\exceptions\DatabaseException.class
+com\watchlist\service\MovieService.class
+com\watchlist\model\Movie.class
+com\watchlist\Main.class
+com\watchlist\service\MovieApiService.class
+com\watchlist\repository\MovieRepository.class
+com\watchlist\service\IMovieService.class
